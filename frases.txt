@@ -1,3 +1,5 @@
 Los sistemas de control de versiones centralizados fueron la evolución natural de
 los sistemas de control de versiones locales. En este tipo de sistemas existe un
 solo repositorio central que contiene todo.
+
+Actualización de contenido en el archivo de frases. 
